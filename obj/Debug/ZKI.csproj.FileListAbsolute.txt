@@ -1,0 +1,38 @@
+C:\Users\Nikita\source\repos\ZKI\bin\Debug\ZKI.exe.config
+C:\Users\Nikita\source\repos\ZKI\bin\Debug\ZKI.exe
+C:\Users\Nikita\source\repos\ZKI\bin\Debug\ZKI.pdb
+C:\Users\Nikita\source\repos\ZKI\obj\Debug\ZKI.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\ZKI\obj\Debug\ZKI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikita\source\repos\ZKI\obj\Debug\ZKI.Form1.resources
+C:\Users\Nikita\source\repos\ZKI\obj\Debug\ZKI.Properties.Resources.resources
+C:\Users\Nikita\source\repos\ZKI\obj\Debug\ZKI.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\ZKI\obj\Debug\ZKI.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\ZKI\obj\Debug\ZKI.exe
+C:\Users\Nikita\source\repos\ZKI\obj\Debug\ZKI.pdb
+C:\Users\Nikita\source\repos\ZKI\obj\Debug\ZKI.Form2.resources
+\\mcb.local\RoamingProfiles$\StudentsData\1216560\Desktop\Новая папка\ZKI\bin\Debug\ZKI.exe.config
+\\mcb.local\RoamingProfiles$\StudentsData\1216560\Desktop\Новая папка\ZKI\bin\Debug\ZKI.exe
+\\mcb.local\RoamingProfiles$\StudentsData\1216560\Desktop\Новая папка\ZKI\bin\Debug\ZKI.pdb
+\\mcb.local\RoamingProfiles$\StudentsData\1216560\Desktop\Новая папка\ZKI\obj\Debug\ZKI.csproj.AssemblyReference.cache
+\\mcb.local\RoamingProfiles$\StudentsData\1216560\Desktop\Новая папка\ZKI\obj\Debug\ZKI.Form1.resources
+\\mcb.local\RoamingProfiles$\StudentsData\1216560\Desktop\Новая папка\ZKI\obj\Debug\ZKI.Form2.resources
+\\mcb.local\RoamingProfiles$\StudentsData\1216560\Desktop\Новая папка\ZKI\obj\Debug\ZKI.Properties.Resources.resources
+\\mcb.local\RoamingProfiles$\StudentsData\1216560\Desktop\Новая папка\ZKI\obj\Debug\ZKI.csproj.GenerateResource.cache
+\\mcb.local\RoamingProfiles$\StudentsData\1216560\Desktop\Новая папка\ZKI\obj\Debug\ZKI.csproj.CoreCompileInputs.cache
+\\mcb.local\RoamingProfiles$\StudentsData\1216560\Desktop\Новая папка\ZKI\obj\Debug\ZKI.exe
+\\mcb.local\RoamingProfiles$\StudentsData\1216560\Desktop\Новая папка\ZKI\obj\Debug\ZKI.pdb
+\\mcb.local\RoamingProfiles$\StudentsData\1216560\Desktop\Новая папка\ZKI\obj\Debug\ZKI.Form3.resources
+C:\Users\Nikita\Downloads\ZKI\bin\Debug\ZKI.exe.config
+C:\Users\Nikita\Downloads\ZKI\bin\Debug\ZKI.exe
+C:\Users\Nikita\Downloads\ZKI\obj\Debug\ZKI.csproj.AssemblyReference.cache
+C:\Users\Nikita\Downloads\ZKI\obj\Debug\ZKI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikita\Downloads\ZKI\obj\Debug\ZKI.Form1.resources
+C:\Users\Nikita\Downloads\ZKI\obj\Debug\ZKI.Form2.resources
+C:\Users\Nikita\Downloads\ZKI\obj\Debug\ZKI.Form3.resources
+C:\Users\Nikita\Downloads\ZKI\obj\Debug\ZKI.Properties.Resources.resources
+C:\Users\Nikita\Downloads\ZKI\obj\Debug\ZKI.csproj.GenerateResource.cache
+C:\Users\Nikita\Downloads\ZKI\obj\Debug\ZKI.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Downloads\ZKI\obj\Debug\ZKI.exe
+C:\Users\Nikita\Downloads\ZKI\obj\Debug\ZKI.pdb
+C:\Users\Nikita\Downloads\ZKI\bin\Debug\ZKI.pdb
+C:\Users\Nikita\Downloads\ZKI\obj\Debug\ZKI.Form4.resources
